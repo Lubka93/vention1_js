@@ -1,0 +1,19 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "Option 2",
+  "main": "index.js",
+  "scripts": {
+    "open": "cypress open --e2e  --browser chrome cypress/e2e/*.cy.js ",
+    "runner": "cypress run --e2e --browser chrome --spec cypress/e2e/*.cy.js",
+    "runnerH": "cypress run --e2e --browser chrome --headed --spec cypress/e2e/*.cy.js"
+  },
+  "author": "Lubka K",
+  "license": "MIT",
+  "devDependencies": {
+    "@cypress/xpath": "^2.0.3",
+    "cypress": "^13.13.0",
+    "cypress-mochawesome-reporter": "^3.8.2",
+    "cypress-xpath": "^2.0.1"
+  }
+}
