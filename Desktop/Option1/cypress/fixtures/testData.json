@@ -1,8 +1,0 @@
-{
-    "topHeroesDataSet": ["Bombasto", "Celeritas", "Magneta", "RubberMan"],
-    "searchValidInputData": ["Bombasto", "bombasto", "Celeritas", "Magneta", "RubberMan", "Bom", "B", "Man"],
-    "searchInvalidInputData": ["123", "Bombasto123", "   ","?","$Bombasto"],             
-    "addValidInputData": ["123", "Bombasto123","?","$Bombasto", "#?", "#$Bombasto"],
-    "addInvalidInputData": ["   ", "        Bombasto"]
-  }
-  
