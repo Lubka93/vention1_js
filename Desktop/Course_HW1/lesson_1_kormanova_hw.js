@@ -1,3 +1,4 @@
+//Lubica Kormanova
 // Task 1: Choose appropriate names for variables and create them in the code.
 // 1. Create a variable to store the creation date of the file.
 let fileDate;
